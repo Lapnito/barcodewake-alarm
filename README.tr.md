@@ -144,6 +144,31 @@ BarcodeWake'i **lapnito.cz s.r.o.** (Lapnito Development Studio) yapar.
 - **E-posta:** tom@lapnito.cz
 - **Google Play'de daha fazla:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "tr",
+  "description": "BarcodeWake, yalnızca gerçekten yataktan kalkıp önceden kaydettiğiniz gerçek bir barkodu — diş macunu, şampuan veya mısır gevreği kutusu — kamerayla okuttuğunuzda susan ücretsiz bir Android alarm saatidir. Bilinen hileler işe yaramaz: ses tuşları sesi kısmaz, alarm kilit ekranının tamamını kaplar ve uygulamayı kapatırsanız işletim sistemi düzeyindeki bir bekçi alarmı yeniden çalıştırır. Görev modları, 13 alarm sesi ve sınırlı erteleme. Tamamen çevrimdışı çalışır, hesap gerektirmez ve reklam içermez.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">Çekya'da ❤️ ile yapıldı — <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

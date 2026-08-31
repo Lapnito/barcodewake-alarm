@@ -146,6 +146,31 @@ BarcodeWake من تطوير **lapnito.cz s.r.o.** (Lapnito Development Studio).
 - **البريد:** tom@lapnito.cz
 - **مزيد من التطبيقات في Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "ar",
+  "description": "BarcodeWake منبّه مجاني لأندرويد لا يتوقف إلا إذا نهضت فعلاً من السرير ومسحت بالكاميرا باركود حقيقياً سجّلته مسبقاً: معجون أسنان أو شامبو أو علبة حبوب. الحيل المعتادة لا تنفع: أزرار الصوت لا تُسكت المنبّه، وهو يظهر بملء الشاشة فوق شاشة القفل، وإذا أغلقت التطبيق يعيد حارس على مستوى النظام تشغيله. أوضاع مهام و13 نغمة وحد أقصى للغفوة. يعمل دون إنترنت وبلا حساب وبلا إعلانات.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">صُنع بـ ❤️ في جمهورية التشيك بواسطة <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

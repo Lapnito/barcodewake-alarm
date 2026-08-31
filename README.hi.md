@@ -144,6 +144,31 @@ BarcodeWake बनाया है **lapnito.cz s.r.o.** (Lapnito Development St
 - **ईमेल:** tom@lapnito.cz
 - **Google Play पर अधिक ऐप्स:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "hi",
+  "description": "BarcodeWake एक मुफ़्त Android अलार्म ऐप है जो तभी बंद होता है जब आप सचमुच बिस्तर से उठकर पहले से रजिस्टर किया गया असली बारकोड कैमरे से स्कैन करते हैं — टूथपेस्ट, शैम्पू या सीरियल का डिब्बा। आम चालाकियाँ काम नहीं करतीं: वॉल्यूम बटन से आवाज़ बंद नहीं होती, अलार्म पूरी लॉक स्क्रीन पर चलता है, और ऐप बंद करने पर सिस्टम-स्तरीय वॉचडॉग उसे दोबारा बजा देता है। मिशन मोड, 13 टोन और सीमित स्नूज़। पूरी तरह ऑफ़लाइन, बिना खाते और बिना विज्ञापन।",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">चेक गणराज्य में ❤️ के साथ — <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

@@ -144,6 +144,31 @@ BarcodeWake 由 **lapnito.cz s.r.o.**（Lapnito Development Studio）开发。
 - **邮箱：** tom@lapnito.cz
 - **Google Play 上更多应用：** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "zh-CN",
+  "description": "BarcodeWake 是一款免费的 Android 闹钟：只有真正起床、用相机扫描你事先登记过的真实条形码（牙膏、洗发水、麦片盒）才能关掉。常见的作弊方式全部失效——音量键无法静音，闹钟以全屏方式覆盖锁屏，强行结束应用后系统级看门狗还会再次响铃。支持任务模式、13 种铃声和贪睡次数限制。完全离线运行，无需账号，也没有广告。",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">由 <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a> 在捷克用 ❤️ 制作</p>

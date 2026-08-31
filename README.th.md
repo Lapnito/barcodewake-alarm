@@ -144,6 +144,31 @@ BarcodeWake พัฒนาโดย **lapnito.cz s.r.o.** (Lapnito Development 
 - **อีเมล:** tom@lapnito.cz
 - **แอปเพิ่มเติมบน Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "th",
+  "description": "BarcodeWake คือแอปนาฬิกาปลุกบน Android ที่ใช้ฟรี และจะหยุดปลุกก็ต่อเมื่อคุณลุกจากเตียงจริง ๆ แล้วใช้กล้องสแกนบาร์โค้ดของจริงที่ลงทะเบียนไว้ล่วงหน้า เช่น ยาสีฟัน แชมพู หรือกล่องซีเรียล วิธีโกงที่คุ้นเคยใช้ไม่ได้ ปุ่มปรับเสียงไม่ทำให้เงียบ เสียงปลุกแสดงเต็มจอเหนือหน้าจอล็อก และถ้าปิดแอปทิ้ง ตัวเฝ้าระวังระดับระบบจะปลุกซ้ำอีกครั้ง มีโหมดภารกิจ เสียงปลุก 13 แบบ และจำกัดจำนวนการเลื่อนปลุก ทำงานออฟไลน์เต็มรูปแบบ ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">ทำด้วย ❤️ ในสาธารณรัฐเช็กโดย <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

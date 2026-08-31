@@ -144,6 +144,31 @@ BarcodeWake는 **lapnito.cz s.r.o.** (Lapnito Development Studio)가 만듭니�
 - **이메일:** tom@lapnito.cz
 - **Google Play의 더 많은 앱:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "ko",
+  "description": "BarcodeWake는 실제로 침대에서 일어나 미리 등록해 둔 진짜 바코드(치약, 샴푸, 시리얼 상자 등)를 카메라로 스캔해야만 꺼지는 무료 안드로이드 알람 시계입니다. 흔한 꼼수는 통하지 않습니다. 볼륨 버튼으로 음소거할 수 없고, 알람은 잠금 화면 위에 전체 화면으로 표시되며, 앱을 강제 종료해도 OS 수준의 워치독이 다시 울립니다. 미션 모드, 13가지 알람음, 다시 알림 횟수 제한을 지원합니다. 완전 오프라인이며 계정이 필요 없고 광고도 없습니다.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">체코에서 ❤️를 담아 — <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

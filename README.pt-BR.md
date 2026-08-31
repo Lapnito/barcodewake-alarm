@@ -144,6 +144,31 @@ BarcodeWake é da **lapnito.cz s.r.o.** (Lapnito Development Studio).
 - **E-mail:** tom@lapnito.cz
 - **Mais apps no Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "pt-BR",
+  "description": "BarcodeWake é um despertador gratuito para Android que só desliga quando você levanta da cama de verdade e escaneia com a câmera um código de barras real cadastrado antes — creme dental, xampu, caixa de cereal. Ele bloqueia as trapaças clássicas: os botões de volume não silenciam nada, o alarme ocupa a tela de bloqueio inteira e um vigia no nível do sistema dispara de novo se você fechar o app. Modos de missão, 13 toques e limite de soneca. Funciona offline, sem conta e sem anúncios.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">Feito com ❤️ na República Tcheca pela <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

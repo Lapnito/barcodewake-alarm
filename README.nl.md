@@ -144,6 +144,31 @@ BarcodeWake wordt gemaakt door **lapnito.cz s.r.o.** (Lapnito Development Studio
 - **E-mail:** tom@lapnito.cz
 - **Meer apps op Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "nl",
+  "description": "BarcodeWake is een gratis Android-wekker die je alleen uitzet door echt op te staan en met de camera een vooraf geregistreerde, echte streepjescode te scannen: tandpasta, shampoo of een pak ontbijtgranen. De bekende trucs werken niet: volumeknoppen dempen niets, het alarm vult het volledige vergrendelscherm en een watchdog op OS-niveau laat het opnieuw afgaan als je de app afsluit. Missiemodi, 13 tonen en beperkte snooze. Werkt offline, zonder account en zonder advertenties.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">Met ❤️ gemaakt in Tsjechië door <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

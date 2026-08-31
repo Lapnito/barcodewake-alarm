@@ -144,6 +144,31 @@ BarcodeWake do **lapnito.cz s.r.o.** (Lapnito Development Studio) phát triển.
 - **Email:** tom@lapnito.cz
 - **Thêm ứng dụng trên Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "vi",
+  "description": "BarcodeWake là ứng dụng báo thức Android miễn phí chỉ tắt được khi bạn thật sự rời giường và dùng camera quét một mã vạch thật đã đăng ký trước — kem đánh răng, dầu gội hay hộp ngũ cốc. Những mẹo gian lận quen thuộc đều vô hiệu: phím âm lượng không tắt tiếng, báo thức hiển thị toàn màn hình trên màn hình khóa, và nếu bạn tắt ứng dụng thì bộ canh gác ở cấp hệ điều hành sẽ reo lại. Có chế độ nhiệm vụ, 13 âm báo và giới hạn báo lại. Hoạt động ngoại tuyến, không tài khoản, không quảng cáo.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">Làm với ❤️ tại Cộng hòa Séc bởi <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

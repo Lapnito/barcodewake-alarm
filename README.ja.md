@@ -144,6 +144,31 @@ BarcodeWake は **lapnito.cz s.r.o.**（Lapnito Development Studio）が開発�
 - **メール：** tom@lapnito.cz
 - **Google Play の他のアプリ：** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "ja",
+  "description": "BarcodeWake は、本当にベッドから出て、あらかじめ登録した実物のバーコード（歯みがき粉、シャンプー、シリアルの箱など）をカメラでスキャンしないと止まらない無料の Android 目覚まし時計です。よくある小細工は通用しません。音量ボタンでは消音できず、アラームはロック画面に全画面表示され、アプリを強制終了しても OS レベルの監視機能が再び鳴らします。ミッションモード、13 種類の音、スヌーズ回数制限を搭載。完全オフラインで、アカウント不要、広告なしです。",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">チェコ共和国で ❤️ を込めて — <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

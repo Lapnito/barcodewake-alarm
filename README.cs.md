@@ -144,6 +144,31 @@ BarcodeWake vyvíjí **lapnito.cz s.r.o.** (Lapnito Development Studio).
 - **E-mail:** tom@lapnito.cz
 - **Další aplikace v Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "cs",
+  "description": "BarcodeWake je bezplatný budík pro Android, který vypneš jedině tak, že opravdu vstaneš a naskenuješ fotoaparátem skutečný čárový kód zaregistrovaný předem — zubní pastu, šampon nebo krabici cereálií. Obvyklé podvádění nefunguje: tlačítka hlasitosti nic neztlumí, budík běží přes celou zamykací obrazovku a systémový hlídač ho spustí znovu, když aplikaci ukončíš. Režimy misí, 13 tónů a omezené odkládání. Funguje offline, bez účtu a bez reklam.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">Vytvořeno s ❤️ v Česku — <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

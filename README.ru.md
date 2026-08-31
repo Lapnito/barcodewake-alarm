@@ -144,6 +144,31 @@ BarcodeWake создан **lapnito.cz s.r.o.** (Lapnito Development Studio).
 - **E-mail:** tom@lapnito.cz
 - **Больше приложений в Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "ru",
+  "description": "BarcodeWake — бесплатный будильник для Android, который выключается только тогда, когда вы действительно встанете и отсканируете камерой настоящий штрих-код, зарегистрированный заранее: зубную пасту, шампунь или коробку хлопьев. Привычные уловки не работают: кнопки громкости ничего не приглушают, будильник занимает весь экран блокировки, а системный сторож включает его снова, если закрыть приложение. Режимы миссий, 13 мелодий и ограниченный отложенный сигнал. Работает офлайн, без аккаунта и без рекламы.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">Сделано с ❤️ в Чехии — <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>

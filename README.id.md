@@ -144,6 +144,31 @@ BarcodeWake dibuat oleh **lapnito.cz s.r.o.** (Lapnito Development Studio).
 - **Email:** tom@lapnito.cz
 - **Aplikasi lain di Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "BarcodeWake: No Cheat Alarm",
+  "inLanguage": "id",
+  "description": "BarcodeWake adalah jam alarm Android gratis yang hanya bisa dimatikan kalau kamu benar-benar bangun dan memindai barcode asli yang sudah didaftarkan sebelumnya dengan kamera — pasta gigi, sampo, atau kotak sereal. Trik-trik biasa tidak mempan: tombol volume tidak membisukan apa pun, alarm tampil layar penuh di atas layar kunci, dan pengawas di tingkat sistem membunyikannya lagi kalau aplikasi ditutup paksa. Mode misi, 13 nada, dan batas tunda. Bekerja sepenuhnya offline, tanpa akun, tanpa iklan.",
+  "operatingSystem": "Android 6.0+",
+  "applicationCategory": "ProductivityApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Barcode-scan dismissal, OS-level watchdog re-alarm, volume enforcement, full-screen lock-screen alarm, no internet, no ads"
+}
+```
+
 ---
 
 <p align="center">Dibuat dengan ❤️ di Republik Ceko oleh <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>
