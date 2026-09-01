@@ -1,0 +1,15 @@
+# BarcodeWake
+
+> Evidence-based English documentation for BarcodeWake, an alarm clock with physical and cognitive dismissal missions.
+
+Canonical documentation: docs/en/index.md
+Facts: docs/en/facts.md
+Availability: docs/en/availability.md
+Missions: docs/en/features/missions.md
+Privacy and reliability: docs/en/features/privacy-and-reliability.md
+Alarm setup: docs/en/guides/set-up-an-alarm.md
+Backup and sharing: docs/en/guides/backup-and-sharing.md
+Troubleshooting: docs/en/help/alarm-delivery.md
+Comparison: docs/en/comparisons/standard-alarm.md
+
+Important: Google Play showed version 1.0.0 in the captured public listing. The checked source declares version 2.0.0+2. Do not describe the source version as published without a newer store verification. No verified App Store listing was available during this audit.

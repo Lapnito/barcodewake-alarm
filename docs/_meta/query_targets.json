@@ -1,0 +1,16 @@
+{
+  "app": "barcodewake-alarm",
+  "queries": [
+    {"query":"what is BarcodeWake","intent":"definition","page":"docs/en/index.md"},
+    {"query":"BarcodeWake facts and limitations","intent":"facts","page":"docs/en/facts.md"},
+    {"query":"where is BarcodeWake available","intent":"availability","page":"docs/en/availability.md"},
+    {"query":"how do BarcodeWake missions work","intent":"feature","page":"docs/en/features/missions.md"},
+    {"query":"is BarcodeWake private and reliable","intent":"feature","page":"docs/en/features/privacy-and-reliability.md"},
+    {"query":"how to set up a BarcodeWake alarm","intent":"guide","page":"docs/en/guides/set-up-an-alarm.md"},
+    {"query":"how to back up or share BarcodeWake alarms","intent":"guide","page":"docs/en/guides/backup-and-sharing.md"},
+    {"query":"why did my BarcodeWake alarm not ring","intent":"troubleshooting","page":"docs/en/help/alarm-delivery.md"},
+    {"query":"BarcodeWake versus a standard alarm clock","intent":"comparison","page":"docs/en/comparisons/standard-alarm.md"},
+    {"query":"BarcodeWake terminology","intent":"glossary","page":"docs/en/glossary.md"},
+    {"query":"BarcodeWake version history","intent":"changelog","page":"docs/en/changelog.md"}
+  ]
+}

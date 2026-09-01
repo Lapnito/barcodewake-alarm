@@ -1,0 +1,30 @@
+{
+  "app": "barcodewake-alarm",
+  "generated_at": "2026-09-01T13:14:15+00:00",
+  "store_snapshot": "docs/_meta/store_snapshot.json",
+  "facts": {
+    "what_it_is": {"value":"BarcodeWake is an alarm clock that can require a physical mission, such as scanning a saved barcode or QR code, before dismissal.","source":"lib/alarm_editor/view/alarm_editor_page.dart","evidence":"The alarm editor configures mission type, difficulty and completion requirements."},
+    "core_measurement": {"value":"The app schedules alarms and verifies a selected scan, maths, typing, shake or step mission; it does not measure sleep stages.","source":"lib/alarm_editor/models/mission_type.dart","evidence":"MissionType contains barcode, qr, math, typing, shake and steps."},
+    "offline": {"value":"Alarm setup, local mission verification and stored app data work on the device. The privacy policy says optional telemetry is disabled by default.","source":"assets/legal/privacy_policy.html","evidence":"The English privacy section describes local processing and the telemetry default."},
+    "account_required": {"value":"No BarcodeWake account or sign-in is required for the documented alarm and mission features.","source":"lib/ and pubspec.yaml","evidence":"The app has no account, authentication or cloud-backend flow."},
+    "ads_tracking": {"value":"The source project has no advertising SDK dependency. Optional telemetry is presented as off by default in the privacy policy.","source":"pubspec.yaml and assets/legal/privacy_policy.html","evidence":"No mobile ads package is declared; the policy documents the telemetry switch."},
+    "data_storage": {"value":"Alarm settings, history and preferences are stored locally. Registered barcode, QR and NFC values use SHA-256 hashes in current storage and exchange paths.","source":"lib/data/ and lib/services/data_exchange_service.dart","evidence":"The Drift layer is local and data exchange hashes raw values when importing older data."},
+    "export_formats": {"value":"The current source supports JSON backup, a printable PDF backup barcode and a code-free setup QR for sharing a limited alarm configuration.","source":"lib/services/data_exchange_service.dart and lib/services/share_setup_service.dart","evidence":"DataExchangeService emits JSON schema version 3 and PDF; ShareSetupService emits setup QR payloads."},
+    "accuracy_limits": {"value":"BarcodeWake is an alarm utility, not a medical device or sleep tracker. Delivery depends on operating-system permissions, battery controls and device-vendor behaviour.","source":"lib/reliability/ and assets/legal/privacy_policy.html","evidence":"The app includes reliability diagnostics and no sleep-stage sensing."},
+    "hardware_requirements": {"value":"Barcode and QR use the camera; shake uses motion sensing; steps require step-count support; NFC requires compatible hardware. Alarm delivery needs relevant notification and exact-alarm permissions.","source":"pubspec.yaml, android/app/src/main/AndroidManifest.xml and ios/Runner/Info.plist","evidence":"The manifests and plugins declare camera, sensors, NFC and alarm capabilities."},
+    "known_limitations": {"value":"There is no cloud sync, account system or sleep-stage analysis. Setup sharing omits saved codes, NFC identifiers, PINs and history. Google Play showed version 1.0.0 when checked; the repository reports source version 2.0.0+2, which is not claimed as published.","source":"lib/services/share_setup_service.dart, pubspec.yaml and docs/_meta/store_snapshot.json","evidence":"The service excludes secrets; the store snapshot and pubspec report different versions."}
+  },
+  "features": [
+    {"id":"scan-missions","name":"Barcode and QR missions","summary":"Require a registered physical code before dismissal.","platforms":["Android","iOS source"],"tier":"free","limits":"Camera or compatible NFC hardware is required for the selected code type.","source":"lib/alarm_editor/view/alarm_editor_page.dart"},
+    {"id":"challenge-missions","name":"Challenge missions","summary":"Use maths, typing, shake or step tasks instead of a saved code.","platforms":["Android","iOS source"],"tier":"free","limits":"Sensor-dependent missions require device support and permissions.","source":"lib/alarm_editor/models/mission_type.dart"},
+    {"id":"mission-chains","name":"Mission chains","summary":"Combine multiple missions in a fixed chain or select one randomly.","platforms":["Android","iOS source"],"tier":"free","limits":"Store availability depends on the published app version.","source":"lib/alarm_editor/models/mission_mode.dart"},
+    {"id":"local-backup","name":"Local backup and setup sharing","summary":"Export local data and share a limited alarm setup without registered secrets.","platforms":["Android","iOS source"],"tier":"free","limits":"A setup QR contains at most six alarms and omits codes, NFC identifiers, PINs and history.","source":"lib/services/data_exchange_service.dart and lib/services/share_setup_service.dart"},
+    {"id":"reliability-doctor","name":"Reliability Doctor","summary":"Checks configuration that can prevent dependable alarm delivery.","platforms":["Android","iOS source"],"tier":"free","limits":"It cannot override vendor battery management or operating-system restrictions.","source":"lib/reliability/"}
+  ],
+  "not_supported": [
+    {"name":"Cloud sync","reason":"The documented data model is local and has no cloud account backend."},
+    {"name":"Sleep-stage tracking","reason":"The app schedules alarms but does not classify sleep stages."},
+    {"name":"Public iOS availability claim","reason":"No verified App Store listing was available during this audit."},
+    {"name":"Secret-bearing setup QR","reason":"Sharing excludes registered codes, NFC identifiers, PINs and history."}
+  ]
+}

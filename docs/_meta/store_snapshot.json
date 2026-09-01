@@ -1,0 +1,19 @@
+{
+  "app": "barcodewake-alarm",
+  "scanned_at": "2026-09-01T13:14:05+00:00",
+  "ios": {
+    "available": false,
+    "error": "not requested"
+  },
+  "play": {
+    "available": true,
+    "source": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm&hl=en&gl=us",
+    "package": "com.tomas.barcodewake_alarm",
+    "name": "BarcodeWake: No Cheat Alarm",
+    "version": "1.0.0",
+    "updated": "Mar 27, 2026",
+    "developer": "http://lapnito.cz",
+    "url": "https://play.google.com/store/apps/details?id=com.tomas.barcodewake_alarm&hl=en&gl=us",
+    "note": "Play HTML is unstable; treat parsed fields as hints and verify anything used as a published fact."
+  }
+}
