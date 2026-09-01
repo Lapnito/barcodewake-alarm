@@ -1,0 +1,39 @@
+---
+title: Cómo configurar una alarma BarcodeWake
+lang: es_MX
+app: barcodewake-alarm
+page_type: guide
+updated: 2026-09-01
+targets:
+  - how to set up a BarcodeWake alarm
+facts_used:
+  - what_it_is
+  - hardware_requirements
+  - accuracy_limits
+---
+# Cómo configurar una alarma BarcodeWake
+
+Primero crea la programación, elige una misión que sea segura y práctica, otorga los permisos necesarios y luego ejecuta una prueba con la pantalla bloqueada en el corto plazo. Para las misiones de escaneo, registra un objeto duradero que esté disponible y sea legible cuando suene la alarma.
+
+## Elegir la misión antes del objeto
+
+Decide qué acción debe separar el despertar del descarte. Un código de barras en otra habitación crea distancia física. Las matemáticas o escribir agrega concentración sin requerir una cámara. Agitar o pasos agrega movimiento pero depende de los sensores y puede no adaptarse a cada persona o entorno. La [referencia de misión](../features/missions.md) explica los compromisos entre los modos único, encadenado y aleatorio.
+
+Si usas un código de barras, código QR o etiqueta NFC, elige algo duradero. Evita el empaquetado desechable, un objeto que otro miembro del hogar pueda mover o un código que será inaccesible mientras viajas. Verifica que la cámara pueda enfocar con la luz esperada. NFC necesita un teléfono y etiqueta compatibles.
+
+## Configurar la programación y la regla de descarte
+
+Abre el editor de alarma, establece la hora deseada y los días activos, luego selecciona la misión mostrada por la compilación instalada. Configura su dificultad o objetivo de manera conservadora para la primera prueba. Si la versión instalada soporta encadenamiento, organiza las misiones en un orden que pueda completarse de manera segura sin correr por las escaleras o salir de un área segura.
+
+Registra el código físico desde el flujo de configuración de la misión. Dale a la alarma una etiqueta que identifique la rutina prevista en lugar de exponer información sensible. Revisa el volumen, la vibración y cualquier opción de seguimiento de despertar visible en la compilación instalada. Los controles disponibles pueden diferir porque las [versiones pública y de código fuente](../availability.md) no eran idénticas en la fecha de auditoría.
+
+## Otorgar permisos con un propósito
+
+Permite las notificaciones y el acceso relacionado con alarmas necesario para la entrega. Otorga acceso a la cámara solo cuando uses una misión de escaneo y acceso a los sensores cuando la misión elegida lo necesite. En Android, revisa la configuración de alarmas exactas y batería si la verificación de confiabilidad de la aplicación las marca. No asumas que guardar una alarma prueba que la entrega en segundo plano está permitida.
+
+## Probar la ruta completa durante la noche
+
+Establece una prueba unos minutos adelante. Bloquea la pantalla, deja BarcodeWake en segundo plano y pon el teléfono en el mismo estado de sonido y energía planeado para durante la noche. Confirma que la alarma aparece, el audio es audible y la misión seleccionada exactamente puede completarse. Luego repite después de mover el objeto registrado a su ubicación real.
+
+Si la entrega falla, usa la [lista de verificación de entrega de alarmas](../help/alarm-delivery.md). Si tiene éxito, considera hacer una [copia de seguridad local](backup-and-sharing.md) después de que la configuración esté estable.
+

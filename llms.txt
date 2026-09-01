@@ -3,6 +3,8 @@
 > Evidence-based English documentation for BarcodeWake, an alarm clock with physical and cognitive dismissal missions.
 
 Canonical documentation: docs/en/index.md
+Language index: docs/README.md
+Translations: 49 validated locale variants under docs/<locale>/; English remains canonical.
 Facts: docs/en/facts.md
 Availability: docs/en/availability.md
 Missions: docs/en/features/missions.md

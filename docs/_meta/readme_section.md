@@ -5,6 +5,7 @@ The evidence-backed documentation set separates public store availability from c
 **Repository mirrors:** [GitHub](https://github.com/Lapnito/barcodewake-alarm) · [GitLab](https://gitlab.com/lapnitocorp/barcodewake-no-cheat-alarm)
 
 - [Documentation index](docs/en/index.md)
+- [All 50 language variants](docs/README.md)
 - [Facts and limitations](docs/en/facts.md)
 - [Availability and versions](docs/en/availability.md)
 - [Missions and mission chains](docs/en/features/missions.md)
