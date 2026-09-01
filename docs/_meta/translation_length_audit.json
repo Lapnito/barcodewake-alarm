@@ -1,0 +1,3785 @@
+{
+  "summary": {
+    "locales": 49,
+    "pages": 539,
+    "minimum_ratio_required": 0.65,
+    "minimum_ratio_found": 0.748,
+    "median_ratio": 1.1055,
+    "failures": []
+  },
+  "pages": [
+    {
+      "locale": "ar",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 343,
+      "ratio": 0.9295
+    },
+    {
+      "locale": "ar",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 181,
+      "ratio": 1.0462
+    },
+    {
+      "locale": "ar",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 383,
+      "ratio": 0.9097
+    },
+    {
+      "locale": "ar",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 302,
+      "ratio": 0.9264
+    },
+    {
+      "locale": "ar",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 350,
+      "ratio": 0.8861
+    },
+    {
+      "locale": "ar",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 363,
+      "ratio": 0.8985
+    },
+    {
+      "locale": "ar",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 249,
+      "ratio": 0.9154
+    },
+    {
+      "locale": "ar",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 377,
+      "ratio": 0.9041
+    },
+    {
+      "locale": "ar",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 370,
+      "ratio": 0.8747
+    },
+    {
+      "locale": "ar",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 403,
+      "ratio": 0.9482
+    },
+    {
+      "locale": "ar",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 349,
+      "ratio": 0.9136
+    },
+    {
+      "locale": "bn",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 459,
+      "ratio": 1.2439
+    },
+    {
+      "locale": "bn",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 256,
+      "ratio": 1.4798
+    },
+    {
+      "locale": "bn",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 562,
+      "ratio": 1.3349
+    },
+    {
+      "locale": "bn",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 472,
+      "ratio": 1.4479
+    },
+    {
+      "locale": "bn",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 491,
+      "ratio": 1.243
+    },
+    {
+      "locale": "bn",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 546,
+      "ratio": 1.3515
+    },
+    {
+      "locale": "bn",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 313,
+      "ratio": 1.1507
+    },
+    {
+      "locale": "bn",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 561,
+      "ratio": 1.3453
+    },
+    {
+      "locale": "bn",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 541,
+      "ratio": 1.279
+    },
+    {
+      "locale": "bn",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 588,
+      "ratio": 1.3835
+    },
+    {
+      "locale": "bn",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 496,
+      "ratio": 1.2984
+    },
+    {
+      "locale": "ca",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 459,
+      "ratio": 1.2439
+    },
+    {
+      "locale": "ca",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 259,
+      "ratio": 1.4971
+    },
+    {
+      "locale": "ca",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 489,
+      "ratio": 1.1615
+    },
+    {
+      "locale": "ca",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 385,
+      "ratio": 1.181
+    },
+    {
+      "locale": "ca",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 468,
+      "ratio": 1.1848
+    },
+    {
+      "locale": "ca",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 522,
+      "ratio": 1.2921
+    },
+    {
+      "locale": "ca",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 335,
+      "ratio": 1.2316
+    },
+    {
+      "locale": "ca",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 525,
+      "ratio": 1.259
+    },
+    {
+      "locale": "ca",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 503,
+      "ratio": 1.1891
+    },
+    {
+      "locale": "ca",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 548,
+      "ratio": 1.2894
+    },
+    {
+      "locale": "ca",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 470,
+      "ratio": 1.2304
+    },
+    {
+      "locale": "cs",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 361,
+      "ratio": 0.9783
+    },
+    {
+      "locale": "cs",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 185,
+      "ratio": 1.0694
+    },
+    {
+      "locale": "cs",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 388,
+      "ratio": 0.9216
+    },
+    {
+      "locale": "cs",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 299,
+      "ratio": 0.9172
+    },
+    {
+      "locale": "cs",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 358,
+      "ratio": 0.9063
+    },
+    {
+      "locale": "cs",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 391,
+      "ratio": 0.9678
+    },
+    {
+      "locale": "cs",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 255,
+      "ratio": 0.9375
+    },
+    {
+      "locale": "cs",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 383,
+      "ratio": 0.9185
+    },
+    {
+      "locale": "cs",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 373,
+      "ratio": 0.8818
+    },
+    {
+      "locale": "cs",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 405,
+      "ratio": 0.9529
+    },
+    {
+      "locale": "cs",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 358,
+      "ratio": 0.9372
+    },
+    {
+      "locale": "da",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 341,
+      "ratio": 0.9241
+    },
+    {
+      "locale": "da",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 164,
+      "ratio": 0.948
+    },
+    {
+      "locale": "da",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 410,
+      "ratio": 0.9739
+    },
+    {
+      "locale": "da",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 288,
+      "ratio": 0.8834
+    },
+    {
+      "locale": "da",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 387,
+      "ratio": 0.9797
+    },
+    {
+      "locale": "da",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 365,
+      "ratio": 0.9035
+    },
+    {
+      "locale": "da",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 250,
+      "ratio": 0.9191
+    },
+    {
+      "locale": "da",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 396,
+      "ratio": 0.9496
+    },
+    {
+      "locale": "da",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 423,
+      "ratio": 1.0
+    },
+    {
+      "locale": "da",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 395,
+      "ratio": 0.9294
+    },
+    {
+      "locale": "da",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 363,
+      "ratio": 0.9503
+    },
+    {
+      "locale": "de",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 366,
+      "ratio": 0.9919
+    },
+    {
+      "locale": "de",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 165,
+      "ratio": 0.9538
+    },
+    {
+      "locale": "de",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 413,
+      "ratio": 0.981
+    },
+    {
+      "locale": "de",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 281,
+      "ratio": 0.862
+    },
+    {
+      "locale": "de",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 422,
+      "ratio": 1.0684
+    },
+    {
+      "locale": "de",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 385,
+      "ratio": 0.953
+    },
+    {
+      "locale": "de",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 240,
+      "ratio": 0.8824
+    },
+    {
+      "locale": "de",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 429,
+      "ratio": 1.0288
+    },
+    {
+      "locale": "de",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 469,
+      "ratio": 1.1087
+    },
+    {
+      "locale": "de",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 432,
+      "ratio": 1.0165
+    },
+    {
+      "locale": "de",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 377,
+      "ratio": 0.9869
+    },
+    {
+      "locale": "de_DE",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 370,
+      "ratio": 1.0027
+    },
+    {
+      "locale": "de_DE",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 170,
+      "ratio": 0.9827
+    },
+    {
+      "locale": "de_DE",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 410,
+      "ratio": 0.9739
+    },
+    {
+      "locale": "de_DE",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 275,
+      "ratio": 0.8436
+    },
+    {
+      "locale": "de_DE",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 415,
+      "ratio": 1.0506
+    },
+    {
+      "locale": "de_DE",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 389,
+      "ratio": 0.9629
+    },
+    {
+      "locale": "de_DE",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 252,
+      "ratio": 0.9265
+    },
+    {
+      "locale": "de_DE",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 432,
+      "ratio": 1.036
+    },
+    {
+      "locale": "de_DE",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 480,
+      "ratio": 1.1348
+    },
+    {
+      "locale": "de_DE",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 420,
+      "ratio": 0.9882
+    },
+    {
+      "locale": "de_DE",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 381,
+      "ratio": 0.9974
+    },
+    {
+      "locale": "el",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 427,
+      "ratio": 1.1572
+    },
+    {
+      "locale": "el",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 209,
+      "ratio": 1.2081
+    },
+    {
+      "locale": "el",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 457,
+      "ratio": 1.0855
+    },
+    {
+      "locale": "el",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 356,
+      "ratio": 1.092
+    },
+    {
+      "locale": "el",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 438,
+      "ratio": 1.1089
+    },
+    {
+      "locale": "el",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 465,
+      "ratio": 1.151
+    },
+    {
+      "locale": "el",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 303,
+      "ratio": 1.114
+    },
+    {
+      "locale": "el",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 471,
+      "ratio": 1.1295
+    },
+    {
+      "locale": "el",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 475,
+      "ratio": 1.1229
+    },
+    {
+      "locale": "el",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 496,
+      "ratio": 1.1671
+    },
+    {
+      "locale": "el",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 442,
+      "ratio": 1.1571
+    },
+    {
+      "locale": "es",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 463,
+      "ratio": 1.2547
+    },
+    {
+      "locale": "es",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 263,
+      "ratio": 1.5202
+    },
+    {
+      "locale": "es",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 484,
+      "ratio": 1.1496
+    },
+    {
+      "locale": "es",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 402,
+      "ratio": 1.2331
+    },
+    {
+      "locale": "es",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 470,
+      "ratio": 1.1899
+    },
+    {
+      "locale": "es",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 554,
+      "ratio": 1.3713
+    },
+    {
+      "locale": "es",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 341,
+      "ratio": 1.2537
+    },
+    {
+      "locale": "es",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 535,
+      "ratio": 1.283
+    },
+    {
+      "locale": "es",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 495,
+      "ratio": 1.1702
+    },
+    {
+      "locale": "es",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 561,
+      "ratio": 1.32
+    },
+    {
+      "locale": "es",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 476,
+      "ratio": 1.2461
+    },
+    {
+      "locale": "es_ES",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 455,
+      "ratio": 1.2331
+    },
+    {
+      "locale": "es_ES",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 264,
+      "ratio": 1.526
+    },
+    {
+      "locale": "es_ES",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 490,
+      "ratio": 1.1639
+    },
+    {
+      "locale": "es_ES",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 405,
+      "ratio": 1.2423
+    },
+    {
+      "locale": "es_ES",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 471,
+      "ratio": 1.1924
+    },
+    {
+      "locale": "es_ES",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 552,
+      "ratio": 1.3663
+    },
+    {
+      "locale": "es_ES",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 335,
+      "ratio": 1.2316
+    },
+    {
+      "locale": "es_ES",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 535,
+      "ratio": 1.283
+    },
+    {
+      "locale": "es_ES",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 502,
+      "ratio": 1.1868
+    },
+    {
+      "locale": "es_ES",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 550,
+      "ratio": 1.2941
+    },
+    {
+      "locale": "es_ES",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 488,
+      "ratio": 1.2775
+    },
+    {
+      "locale": "es_MX",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 446,
+      "ratio": 1.2087
+    },
+    {
+      "locale": "es_MX",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 262,
+      "ratio": 1.5145
+    },
+    {
+      "locale": "es_MX",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 484,
+      "ratio": 1.1496
+    },
+    {
+      "locale": "es_MX",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 399,
+      "ratio": 1.2239
+    },
+    {
+      "locale": "es_MX",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 410,
+      "ratio": 1.038
+    },
+    {
+      "locale": "es_MX",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 560,
+      "ratio": 1.3861
+    },
+    {
+      "locale": "es_MX",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 339,
+      "ratio": 1.2463
+    },
+    {
+      "locale": "es_MX",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 517,
+      "ratio": 1.2398
+    },
+    {
+      "locale": "es_MX",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 491,
+      "ratio": 1.1608
+    },
+    {
+      "locale": "es_MX",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 567,
+      "ratio": 1.3341
+    },
+    {
+      "locale": "es_MX",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 497,
+      "ratio": 1.301
+    },
+    {
+      "locale": "fi",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 290,
+      "ratio": 0.7859
+    },
+    {
+      "locale": "fi",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 147,
+      "ratio": 0.8497
+    },
+    {
+      "locale": "fi",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 341,
+      "ratio": 0.81
+    },
+    {
+      "locale": "fi",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 253,
+      "ratio": 0.7761
+    },
+    {
+      "locale": "fi",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 313,
+      "ratio": 0.7924
+    },
+    {
+      "locale": "fi",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 341,
+      "ratio": 0.8441
+    },
+    {
+      "locale": "fi",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 215,
+      "ratio": 0.7904
+    },
+    {
+      "locale": "fi",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 345,
+      "ratio": 0.8273
+    },
+    {
+      "locale": "fi",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 423,
+      "ratio": 1.0
+    },
+    {
+      "locale": "fi",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 328,
+      "ratio": 0.7718
+    },
+    {
+      "locale": "fi",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 292,
+      "ratio": 0.7644
+    },
+    {
+      "locale": "fr",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 450,
+      "ratio": 1.2195
+    },
+    {
+      "locale": "fr",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 239,
+      "ratio": 1.3815
+    },
+    {
+      "locale": "fr",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 499,
+      "ratio": 1.1853
+    },
+    {
+      "locale": "fr",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 424,
+      "ratio": 1.3006
+    },
+    {
+      "locale": "fr",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 477,
+      "ratio": 1.2076
+    },
+    {
+      "locale": "fr",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 506,
+      "ratio": 1.2525
+    },
+    {
+      "locale": "fr",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 363,
+      "ratio": 1.3346
+    },
+    {
+      "locale": "fr",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 501,
+      "ratio": 1.2014
+    },
+    {
+      "locale": "fr",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 499,
+      "ratio": 1.1797
+    },
+    {
+      "locale": "fr",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 541,
+      "ratio": 1.2729
+    },
+    {
+      "locale": "fr",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 471,
+      "ratio": 1.233
+    },
+    {
+      "locale": "fr_CA",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 457,
+      "ratio": 1.2385
+    },
+    {
+      "locale": "fr_CA",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 235,
+      "ratio": 1.3584
+    },
+    {
+      "locale": "fr_CA",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 509,
+      "ratio": 1.209
+    },
+    {
+      "locale": "fr_CA",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 371,
+      "ratio": 1.138
+    },
+    {
+      "locale": "fr_CA",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 481,
+      "ratio": 1.2177
+    },
+    {
+      "locale": "fr_CA",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 519,
+      "ratio": 1.2847
+    },
+    {
+      "locale": "fr_CA",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 365,
+      "ratio": 1.3419
+    },
+    {
+      "locale": "fr_CA",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 495,
+      "ratio": 1.1871
+    },
+    {
+      "locale": "fr_CA",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 494,
+      "ratio": 1.1678
+    },
+    {
+      "locale": "fr_CA",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 552,
+      "ratio": 1.2988
+    },
+    {
+      "locale": "fr_CA",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 466,
+      "ratio": 1.2199
+    },
+    {
+      "locale": "gu",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 400,
+      "ratio": 1.084
+    },
+    {
+      "locale": "gu",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 209,
+      "ratio": 1.2081
+    },
+    {
+      "locale": "gu",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 505,
+      "ratio": 1.1995
+    },
+    {
+      "locale": "gu",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 436,
+      "ratio": 1.3374
+    },
+    {
+      "locale": "gu",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 443,
+      "ratio": 1.1215
+    },
+    {
+      "locale": "gu",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 501,
+      "ratio": 1.2401
+    },
+    {
+      "locale": "gu",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 293,
+      "ratio": 1.0772
+    },
+    {
+      "locale": "gu",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 547,
+      "ratio": 1.3118
+    },
+    {
+      "locale": "gu",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 465,
+      "ratio": 1.0993
+    },
+    {
+      "locale": "gu",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 518,
+      "ratio": 1.2188
+    },
+    {
+      "locale": "gu",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 461,
+      "ratio": 1.2068
+    },
+    {
+      "locale": "he",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 329,
+      "ratio": 0.8916
+    },
+    {
+      "locale": "he",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 161,
+      "ratio": 0.9306
+    },
+    {
+      "locale": "he",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 377,
+      "ratio": 0.8955
+    },
+    {
+      "locale": "he",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 277,
+      "ratio": 0.8497
+    },
+    {
+      "locale": "he",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 329,
+      "ratio": 0.8329
+    },
+    {
+      "locale": "he",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 363,
+      "ratio": 0.8985
+    },
+    {
+      "locale": "he",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 228,
+      "ratio": 0.8382
+    },
+    {
+      "locale": "he",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 367,
+      "ratio": 0.8801
+    },
+    {
+      "locale": "he",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 358,
+      "ratio": 0.8463
+    },
+    {
+      "locale": "he",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 385,
+      "ratio": 0.9059
+    },
+    {
+      "locale": "he",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 332,
+      "ratio": 0.8691
+    },
+    {
+      "locale": "hi",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 449,
+      "ratio": 1.2168
+    },
+    {
+      "locale": "hi",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 238,
+      "ratio": 1.3757
+    },
+    {
+      "locale": "hi",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 531,
+      "ratio": 1.2613
+    },
+    {
+      "locale": "hi",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 444,
+      "ratio": 1.362
+    },
+    {
+      "locale": "hi",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 491,
+      "ratio": 1.243
+    },
+    {
+      "locale": "hi",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 492,
+      "ratio": 1.2178
+    },
+    {
+      "locale": "hi",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 352,
+      "ratio": 1.2941
+    },
+    {
+      "locale": "hi",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 523,
+      "ratio": 1.2542
+    },
+    {
+      "locale": "hi",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 513,
+      "ratio": 1.2128
+    },
+    {
+      "locale": "hi",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 534,
+      "ratio": 1.2565
+    },
+    {
+      "locale": "hi",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 461,
+      "ratio": 1.2068
+    },
+    {
+      "locale": "hr",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 354,
+      "ratio": 0.9593
+    },
+    {
+      "locale": "hr",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 187,
+      "ratio": 1.0809
+    },
+    {
+      "locale": "hr",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 397,
+      "ratio": 0.943
+    },
+    {
+      "locale": "hr",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 320,
+      "ratio": 0.9816
+    },
+    {
+      "locale": "hr",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 357,
+      "ratio": 0.9038
+    },
+    {
+      "locale": "hr",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 399,
+      "ratio": 0.9876
+    },
+    {
+      "locale": "hr",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 264,
+      "ratio": 0.9706
+    },
+    {
+      "locale": "hr",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 403,
+      "ratio": 0.9664
+    },
+    {
+      "locale": "hr",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 384,
+      "ratio": 0.9078
+    },
+    {
+      "locale": "hr",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 399,
+      "ratio": 0.9388
+    },
+    {
+      "locale": "hr",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 364,
+      "ratio": 0.9529
+    },
+    {
+      "locale": "hu",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 353,
+      "ratio": 0.9566
+    },
+    {
+      "locale": "hu",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 192,
+      "ratio": 1.1098
+    },
+    {
+      "locale": "hu",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 403,
+      "ratio": 0.9572
+    },
+    {
+      "locale": "hu",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 299,
+      "ratio": 0.9172
+    },
+    {
+      "locale": "hu",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 381,
+      "ratio": 0.9646
+    },
+    {
+      "locale": "hu",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 414,
+      "ratio": 1.0248
+    },
+    {
+      "locale": "hu",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 277,
+      "ratio": 1.0184
+    },
+    {
+      "locale": "hu",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 440,
+      "ratio": 1.0552
+    },
+    {
+      "locale": "hu",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 421,
+      "ratio": 0.9953
+    },
+    {
+      "locale": "hu",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 408,
+      "ratio": 0.96
+    },
+    {
+      "locale": "hu",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 385,
+      "ratio": 1.0079
+    },
+    {
+      "locale": "id",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 357,
+      "ratio": 0.9675
+    },
+    {
+      "locale": "id",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 177,
+      "ratio": 1.0231
+    },
+    {
+      "locale": "id",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 404,
+      "ratio": 0.9596
+    },
+    {
+      "locale": "id",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 327,
+      "ratio": 1.0031
+    },
+    {
+      "locale": "id",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 387,
+      "ratio": 0.9797
+    },
+    {
+      "locale": "id",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 406,
+      "ratio": 1.005
+    },
+    {
+      "locale": "id",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 267,
+      "ratio": 0.9816
+    },
+    {
+      "locale": "id",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 395,
+      "ratio": 0.9472
+    },
+    {
+      "locale": "id",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 384,
+      "ratio": 0.9078
+    },
+    {
+      "locale": "id",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 411,
+      "ratio": 0.9671
+    },
+    {
+      "locale": "id",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 367,
+      "ratio": 0.9607
+    },
+    {
+      "locale": "it",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 425,
+      "ratio": 1.1518
+    },
+    {
+      "locale": "it",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 221,
+      "ratio": 1.2775
+    },
+    {
+      "locale": "it",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 466,
+      "ratio": 1.1069
+    },
+    {
+      "locale": "it",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 371,
+      "ratio": 1.138
+    },
+    {
+      "locale": "it",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 447,
+      "ratio": 1.1316
+    },
+    {
+      "locale": "it",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 490,
+      "ratio": 1.2129
+    },
+    {
+      "locale": "it",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 338,
+      "ratio": 1.2426
+    },
+    {
+      "locale": "it",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 490,
+      "ratio": 1.1751
+    },
+    {
+      "locale": "it",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 464,
+      "ratio": 1.0969
+    },
+    {
+      "locale": "it",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 512,
+      "ratio": 1.2047
+    },
+    {
+      "locale": "it",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 445,
+      "ratio": 1.1649
+    },
+    {
+      "locale": "ja",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 535,
+      "ratio": 1.4499
+    },
+    {
+      "locale": "ja",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 275,
+      "ratio": 1.5896
+    },
+    {
+      "locale": "ja",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 605,
+      "ratio": 1.4371
+    },
+    {
+      "locale": "ja",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 507,
+      "ratio": 1.5552
+    },
+    {
+      "locale": "ja",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 559,
+      "ratio": 1.4152
+    },
+    {
+      "locale": "ja",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 629,
+      "ratio": 1.5569
+    },
+    {
+      "locale": "ja",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 335,
+      "ratio": 1.2316
+    },
+    {
+      "locale": "ja",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 618,
+      "ratio": 1.482
+    },
+    {
+      "locale": "ja",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 611,
+      "ratio": 1.4444
+    },
+    {
+      "locale": "ja",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 654,
+      "ratio": 1.5388
+    },
+    {
+      "locale": "ja",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 553,
+      "ratio": 1.4476
+    },
+    {
+      "locale": "kn",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 502,
+      "ratio": 1.3604
+    },
+    {
+      "locale": "kn",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 258,
+      "ratio": 1.4913
+    },
+    {
+      "locale": "kn",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 632,
+      "ratio": 1.5012
+    },
+    {
+      "locale": "kn",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 524,
+      "ratio": 1.6074
+    },
+    {
+      "locale": "kn",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 495,
+      "ratio": 1.2532
+    },
+    {
+      "locale": "kn",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 634,
+      "ratio": 1.5693
+    },
+    {
+      "locale": "kn",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 381,
+      "ratio": 1.4007
+    },
+    {
+      "locale": "kn",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 660,
+      "ratio": 1.5827
+    },
+    {
+      "locale": "kn",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 598,
+      "ratio": 1.4137
+    },
+    {
+      "locale": "kn",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 645,
+      "ratio": 1.5176
+    },
+    {
+      "locale": "kn",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 551,
+      "ratio": 1.4424
+    },
+    {
+      "locale": "ko",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 396,
+      "ratio": 1.0732
+    },
+    {
+      "locale": "ko",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 201,
+      "ratio": 1.1618
+    },
+    {
+      "locale": "ko",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 475,
+      "ratio": 1.1283
+    },
+    {
+      "locale": "ko",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 389,
+      "ratio": 1.1933
+    },
+    {
+      "locale": "ko",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 436,
+      "ratio": 1.1038
+    },
+    {
+      "locale": "ko",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 471,
+      "ratio": 1.1658
+    },
+    {
+      "locale": "ko",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 282,
+      "ratio": 1.0368
+    },
+    {
+      "locale": "ko",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 461,
+      "ratio": 1.1055
+    },
+    {
+      "locale": "ko",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 462,
+      "ratio": 1.0922
+    },
+    {
+      "locale": "ko",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 477,
+      "ratio": 1.1224
+    },
+    {
+      "locale": "ko",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 420,
+      "ratio": 1.0995
+    },
+    {
+      "locale": "ml",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 355,
+      "ratio": 0.9621
+    },
+    {
+      "locale": "ml",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 177,
+      "ratio": 1.0231
+    },
+    {
+      "locale": "ml",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 658,
+      "ratio": 1.5629
+    },
+    {
+      "locale": "ml",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 358,
+      "ratio": 1.0982
+    },
+    {
+      "locale": "ml",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 374,
+      "ratio": 0.9468
+    },
+    {
+      "locale": "ml",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 636,
+      "ratio": 1.5743
+    },
+    {
+      "locale": "ml",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 408,
+      "ratio": 1.5
+    },
+    {
+      "locale": "ml",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 643,
+      "ratio": 1.542
+    },
+    {
+      "locale": "ml",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 391,
+      "ratio": 0.9243
+    },
+    {
+      "locale": "ml",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 699,
+      "ratio": 1.6447
+    },
+    {
+      "locale": "ml",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 612,
+      "ratio": 1.6021
+    },
+    {
+      "locale": "mr",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 448,
+      "ratio": 1.2141
+    },
+    {
+      "locale": "mr",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 232,
+      "ratio": 1.341
+    },
+    {
+      "locale": "mr",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 531,
+      "ratio": 1.2613
+    },
+    {
+      "locale": "mr",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 444,
+      "ratio": 1.362
+    },
+    {
+      "locale": "mr",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 395,
+      "ratio": 1.0
+    },
+    {
+      "locale": "mr",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 548,
+      "ratio": 1.3564
+    },
+    {
+      "locale": "mr",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 302,
+      "ratio": 1.1103
+    },
+    {
+      "locale": "mr",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 561,
+      "ratio": 1.3453
+    },
+    {
+      "locale": "mr",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 434,
+      "ratio": 1.026
+    },
+    {
+      "locale": "mr",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 562,
+      "ratio": 1.3224
+    },
+    {
+      "locale": "mr",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 458,
+      "ratio": 1.199
+    },
+    {
+      "locale": "ms",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 360,
+      "ratio": 0.9756
+    },
+    {
+      "locale": "ms",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 182,
+      "ratio": 1.052
+    },
+    {
+      "locale": "ms",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 394,
+      "ratio": 0.9359
+    },
+    {
+      "locale": "ms",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 314,
+      "ratio": 0.9632
+    },
+    {
+      "locale": "ms",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 376,
+      "ratio": 0.9519
+    },
+    {
+      "locale": "ms",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 390,
+      "ratio": 0.9653
+    },
+    {
+      "locale": "ms",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 267,
+      "ratio": 0.9816
+    },
+    {
+      "locale": "ms",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 390,
+      "ratio": 0.9353
+    },
+    {
+      "locale": "ms",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 389,
+      "ratio": 0.9196
+    },
+    {
+      "locale": "ms",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 406,
+      "ratio": 0.9553
+    },
+    {
+      "locale": "ms",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 350,
+      "ratio": 0.9162
+    },
+    {
+      "locale": "nb",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 340,
+      "ratio": 0.9214
+    },
+    {
+      "locale": "nb",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 162,
+      "ratio": 0.9364
+    },
+    {
+      "locale": "nb",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 396,
+      "ratio": 0.9406
+    },
+    {
+      "locale": "nb",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 286,
+      "ratio": 0.8773
+    },
+    {
+      "locale": "nb",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 378,
+      "ratio": 0.957
+    },
+    {
+      "locale": "nb",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 361,
+      "ratio": 0.8936
+    },
+    {
+      "locale": "nb",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 236,
+      "ratio": 0.8676
+    },
+    {
+      "locale": "nb",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 378,
+      "ratio": 0.9065
+    },
+    {
+      "locale": "nb",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 411,
+      "ratio": 0.9716
+    },
+    {
+      "locale": "nb",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 380,
+      "ratio": 0.8941
+    },
+    {
+      "locale": "nb",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 358,
+      "ratio": 0.9372
+    },
+    {
+      "locale": "nl",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 345,
+      "ratio": 0.935
+    },
+    {
+      "locale": "nl",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 185,
+      "ratio": 1.0694
+    },
+    {
+      "locale": "nl",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 425,
+      "ratio": 1.0095
+    },
+    {
+      "locale": "nl",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 292,
+      "ratio": 0.8957
+    },
+    {
+      "locale": "nl",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 411,
+      "ratio": 1.0405
+    },
+    {
+      "locale": "nl",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 389,
+      "ratio": 0.9629
+    },
+    {
+      "locale": "nl",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 271,
+      "ratio": 0.9963
+    },
+    {
+      "locale": "nl",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 430,
+      "ratio": 1.0312
+    },
+    {
+      "locale": "nl",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 468,
+      "ratio": 1.1064
+    },
+    {
+      "locale": "nl",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 459,
+      "ratio": 1.08
+    },
+    {
+      "locale": "nl",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 377,
+      "ratio": 0.9869
+    },
+    {
+      "locale": "or",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 407,
+      "ratio": 1.103
+    },
+    {
+      "locale": "or",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 173,
+      "ratio": 1.0
+    },
+    {
+      "locale": "or",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 466,
+      "ratio": 1.1069
+    },
+    {
+      "locale": "or",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 345,
+      "ratio": 1.0583
+    },
+    {
+      "locale": "or",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 395,
+      "ratio": 1.0
+    },
+    {
+      "locale": "or",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 464,
+      "ratio": 1.1485
+    },
+    {
+      "locale": "or",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 304,
+      "ratio": 1.1176
+    },
+    {
+      "locale": "or",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 464,
+      "ratio": 1.1127
+    },
+    {
+      "locale": "or",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 437,
+      "ratio": 1.0331
+    },
+    {
+      "locale": "or",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 514,
+      "ratio": 1.2094
+    },
+    {
+      "locale": "or",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 382,
+      "ratio": 1.0
+    },
+    {
+      "locale": "pa",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 426,
+      "ratio": 1.1545
+    },
+    {
+      "locale": "pa",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 219,
+      "ratio": 1.2659
+    },
+    {
+      "locale": "pa",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 511,
+      "ratio": 1.2138
+    },
+    {
+      "locale": "pa",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 404,
+      "ratio": 1.2393
+    },
+    {
+      "locale": "pa",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 480,
+      "ratio": 1.2152
+    },
+    {
+      "locale": "pa",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 513,
+      "ratio": 1.2698
+    },
+    {
+      "locale": "pa",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 323,
+      "ratio": 1.1875
+    },
+    {
+      "locale": "pa",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 516,
+      "ratio": 1.2374
+    },
+    {
+      "locale": "pa",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 496,
+      "ratio": 1.1726
+    },
+    {
+      "locale": "pa",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 519,
+      "ratio": 1.2212
+    },
+    {
+      "locale": "pa",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 450,
+      "ratio": 1.178
+    },
+    {
+      "locale": "pl",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 361,
+      "ratio": 0.9783
+    },
+    {
+      "locale": "pl",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 194,
+      "ratio": 1.1214
+    },
+    {
+      "locale": "pl",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 405,
+      "ratio": 0.962
+    },
+    {
+      "locale": "pl",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 315,
+      "ratio": 0.9663
+    },
+    {
+      "locale": "pl",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 360,
+      "ratio": 0.9114
+    },
+    {
+      "locale": "pl",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 368,
+      "ratio": 0.9109
+    },
+    {
+      "locale": "pl",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 265,
+      "ratio": 0.9743
+    },
+    {
+      "locale": "pl",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 403,
+      "ratio": 0.9664
+    },
+    {
+      "locale": "pl",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 392,
+      "ratio": 0.9267
+    },
+    {
+      "locale": "pl",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 414,
+      "ratio": 0.9741
+    },
+    {
+      "locale": "pl",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 372,
+      "ratio": 0.9738
+    },
+    {
+      "locale": "pt",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 435,
+      "ratio": 1.1789
+    },
+    {
+      "locale": "pt",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 234,
+      "ratio": 1.3526
+    },
+    {
+      "locale": "pt",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 471,
+      "ratio": 1.1188
+    },
+    {
+      "locale": "pt",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 379,
+      "ratio": 1.1626
+    },
+    {
+      "locale": "pt",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 453,
+      "ratio": 1.1468
+    },
+    {
+      "locale": "pt",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 510,
+      "ratio": 1.2624
+    },
+    {
+      "locale": "pt",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 285,
+      "ratio": 1.0478
+    },
+    {
+      "locale": "pt",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 486,
+      "ratio": 1.1655
+    },
+    {
+      "locale": "pt",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 467,
+      "ratio": 1.104
+    },
+    {
+      "locale": "pt",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 520,
+      "ratio": 1.2235
+    },
+    {
+      "locale": "pt",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 445,
+      "ratio": 1.1649
+    },
+    {
+      "locale": "pt_BR",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 435,
+      "ratio": 1.1789
+    },
+    {
+      "locale": "pt_BR",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 206,
+      "ratio": 1.1908
+    },
+    {
+      "locale": "pt_BR",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 475,
+      "ratio": 1.1283
+    },
+    {
+      "locale": "pt_BR",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 384,
+      "ratio": 1.1779
+    },
+    {
+      "locale": "pt_BR",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 443,
+      "ratio": 1.1215
+    },
+    {
+      "locale": "pt_BR",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 491,
+      "ratio": 1.2153
+    },
+    {
+      "locale": "pt_BR",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 330,
+      "ratio": 1.2132
+    },
+    {
+      "locale": "pt_BR",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 486,
+      "ratio": 1.1655
+    },
+    {
+      "locale": "pt_BR",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 474,
+      "ratio": 1.1206
+    },
+    {
+      "locale": "pt_BR",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 513,
+      "ratio": 1.2071
+    },
+    {
+      "locale": "pt_BR",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 442,
+      "ratio": 1.1571
+    },
+    {
+      "locale": "pt_PT",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 441,
+      "ratio": 1.1951
+    },
+    {
+      "locale": "pt_PT",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 237,
+      "ratio": 1.3699
+    },
+    {
+      "locale": "pt_PT",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 471,
+      "ratio": 1.1188
+    },
+    {
+      "locale": "pt_PT",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 376,
+      "ratio": 1.1534
+    },
+    {
+      "locale": "pt_PT",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 454,
+      "ratio": 1.1494
+    },
+    {
+      "locale": "pt_PT",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 524,
+      "ratio": 1.297
+    },
+    {
+      "locale": "pt_PT",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 334,
+      "ratio": 1.2279
+    },
+    {
+      "locale": "pt_PT",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 493,
+      "ratio": 1.1823
+    },
+    {
+      "locale": "pt_PT",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 474,
+      "ratio": 1.1206
+    },
+    {
+      "locale": "pt_PT",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 524,
+      "ratio": 1.2329
+    },
+    {
+      "locale": "pt_PT",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 453,
+      "ratio": 1.1859
+    },
+    {
+      "locale": "ro",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 409,
+      "ratio": 1.1084
+    },
+    {
+      "locale": "ro",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 227,
+      "ratio": 1.3121
+    },
+    {
+      "locale": "ro",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 468,
+      "ratio": 1.1116
+    },
+    {
+      "locale": "ro",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 344,
+      "ratio": 1.0552
+    },
+    {
+      "locale": "ro",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 442,
+      "ratio": 1.119
+    },
+    {
+      "locale": "ro",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 456,
+      "ratio": 1.1287
+    },
+    {
+      "locale": "ro",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 303,
+      "ratio": 1.114
+    },
+    {
+      "locale": "ro",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 473,
+      "ratio": 1.1343
+    },
+    {
+      "locale": "ro",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 433,
+      "ratio": 1.0236
+    },
+    {
+      "locale": "ro",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 458,
+      "ratio": 1.0776
+    },
+    {
+      "locale": "ro",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 413,
+      "ratio": 1.0812
+    },
+    {
+      "locale": "ru",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 370,
+      "ratio": 1.0027
+    },
+    {
+      "locale": "ru",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 193,
+      "ratio": 1.1156
+    },
+    {
+      "locale": "ru",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 398,
+      "ratio": 0.9454
+    },
+    {
+      "locale": "ru",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 315,
+      "ratio": 0.9663
+    },
+    {
+      "locale": "ru",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 377,
+      "ratio": 0.9544
+    },
+    {
+      "locale": "ru",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 410,
+      "ratio": 1.0149
+    },
+    {
+      "locale": "ru",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 267,
+      "ratio": 0.9816
+    },
+    {
+      "locale": "ru",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 431,
+      "ratio": 1.0336
+    },
+    {
+      "locale": "ru",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 384,
+      "ratio": 0.9078
+    },
+    {
+      "locale": "ru",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 388,
+      "ratio": 0.9129
+    },
+    {
+      "locale": "ru",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 368,
+      "ratio": 0.9634
+    },
+    {
+      "locale": "sk",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 355,
+      "ratio": 0.9621
+    },
+    {
+      "locale": "sk",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 193,
+      "ratio": 1.1156
+    },
+    {
+      "locale": "sk",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 395,
+      "ratio": 0.9382
+    },
+    {
+      "locale": "sk",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 310,
+      "ratio": 0.9509
+    },
+    {
+      "locale": "sk",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 362,
+      "ratio": 0.9165
+    },
+    {
+      "locale": "sk",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 392,
+      "ratio": 0.9703
+    },
+    {
+      "locale": "sk",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 259,
+      "ratio": 0.9522
+    },
+    {
+      "locale": "sk",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 397,
+      "ratio": 0.952
+    },
+    {
+      "locale": "sk",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 373,
+      "ratio": 0.8818
+    },
+    {
+      "locale": "sk",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 407,
+      "ratio": 0.9576
+    },
+    {
+      "locale": "sk",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 367,
+      "ratio": 0.9607
+    },
+    {
+      "locale": "sl",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 372,
+      "ratio": 1.0081
+    },
+    {
+      "locale": "sl",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 199,
+      "ratio": 1.1503
+    },
+    {
+      "locale": "sl",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 396,
+      "ratio": 0.9406
+    },
+    {
+      "locale": "sl",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 328,
+      "ratio": 1.0061
+    },
+    {
+      "locale": "sl",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 369,
+      "ratio": 0.9342
+    },
+    {
+      "locale": "sl",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 402,
+      "ratio": 0.995
+    },
+    {
+      "locale": "sl",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 270,
+      "ratio": 0.9926
+    },
+    {
+      "locale": "sl",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 415,
+      "ratio": 0.9952
+    },
+    {
+      "locale": "sl",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 398,
+      "ratio": 0.9409
+    },
+    {
+      "locale": "sl",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 327,
+      "ratio": 0.7694
+    },
+    {
+      "locale": "sl",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 368,
+      "ratio": 0.9634
+    },
+    {
+      "locale": "sv",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 333,
+      "ratio": 0.9024
+    },
+    {
+      "locale": "sv",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 164,
+      "ratio": 0.948
+    },
+    {
+      "locale": "sv",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 390,
+      "ratio": 0.9264
+    },
+    {
+      "locale": "sv",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 278,
+      "ratio": 0.8528
+    },
+    {
+      "locale": "sv",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 383,
+      "ratio": 0.9696
+    },
+    {
+      "locale": "sv",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 360,
+      "ratio": 0.8911
+    },
+    {
+      "locale": "sv",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 237,
+      "ratio": 0.8713
+    },
+    {
+      "locale": "sv",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 386,
+      "ratio": 0.9257
+    },
+    {
+      "locale": "sv",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 398,
+      "ratio": 0.9409
+    },
+    {
+      "locale": "sv",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 375,
+      "ratio": 0.8824
+    },
+    {
+      "locale": "sv",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 353,
+      "ratio": 0.9241
+    },
+    {
+      "locale": "ta",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 505,
+      "ratio": 1.3686
+    },
+    {
+      "locale": "ta",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 302,
+      "ratio": 1.7457
+    },
+    {
+      "locale": "ta",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 656,
+      "ratio": 1.5582
+    },
+    {
+      "locale": "ta",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 558,
+      "ratio": 1.7117
+    },
+    {
+      "locale": "ta",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 623,
+      "ratio": 1.5772
+    },
+    {
+      "locale": "ta",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 676,
+      "ratio": 1.6733
+    },
+    {
+      "locale": "ta",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 408,
+      "ratio": 1.5
+    },
+    {
+      "locale": "ta",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 705,
+      "ratio": 1.6906
+    },
+    {
+      "locale": "ta",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 687,
+      "ratio": 1.6241
+    },
+    {
+      "locale": "ta",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 690,
+      "ratio": 1.6235
+    },
+    {
+      "locale": "ta",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 612,
+      "ratio": 1.6021
+    },
+    {
+      "locale": "te",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 472,
+      "ratio": 1.2791
+    },
+    {
+      "locale": "te",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 208,
+      "ratio": 1.2023
+    },
+    {
+      "locale": "te",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 402,
+      "ratio": 0.9549
+    },
+    {
+      "locale": "te",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 475,
+      "ratio": 1.4571
+    },
+    {
+      "locale": "te",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 395,
+      "ratio": 1.0
+    },
+    {
+      "locale": "te",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 361,
+      "ratio": 0.8936
+    },
+    {
+      "locale": "te",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 261,
+      "ratio": 0.9596
+    },
+    {
+      "locale": "te",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 589,
+      "ratio": 1.4125
+    },
+    {
+      "locale": "te",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 576,
+      "ratio": 1.3617
+    },
+    {
+      "locale": "te",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 628,
+      "ratio": 1.4776
+    },
+    {
+      "locale": "te",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 517,
+      "ratio": 1.3534
+    },
+    {
+      "locale": "th",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 478,
+      "ratio": 1.2954
+    },
+    {
+      "locale": "th",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 248,
+      "ratio": 1.4335
+    },
+    {
+      "locale": "th",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 631,
+      "ratio": 1.4988
+    },
+    {
+      "locale": "th",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 482,
+      "ratio": 1.4785
+    },
+    {
+      "locale": "th",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 527,
+      "ratio": 1.3342
+    },
+    {
+      "locale": "th",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 596,
+      "ratio": 1.4752
+    },
+    {
+      "locale": "th",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 399,
+      "ratio": 1.4669
+    },
+    {
+      "locale": "th",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 602,
+      "ratio": 1.4436
+    },
+    {
+      "locale": "th",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 528,
+      "ratio": 1.2482
+    },
+    {
+      "locale": "th",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 580,
+      "ratio": 1.3647
+    },
+    {
+      "locale": "th",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 507,
+      "ratio": 1.3272
+    },
+    {
+      "locale": "tr",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 324,
+      "ratio": 0.878
+    },
+    {
+      "locale": "tr",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 169,
+      "ratio": 0.9769
+    },
+    {
+      "locale": "tr",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 376,
+      "ratio": 0.8931
+    },
+    {
+      "locale": "tr",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 303,
+      "ratio": 0.9294
+    },
+    {
+      "locale": "tr",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 344,
+      "ratio": 0.8709
+    },
+    {
+      "locale": "tr",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 371,
+      "ratio": 0.9183
+    },
+    {
+      "locale": "tr",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 250,
+      "ratio": 0.9191
+    },
+    {
+      "locale": "tr",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 377,
+      "ratio": 0.9041
+    },
+    {
+      "locale": "tr",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 340,
+      "ratio": 0.8038
+    },
+    {
+      "locale": "tr",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 371,
+      "ratio": 0.8729
+    },
+    {
+      "locale": "tr",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 339,
+      "ratio": 0.8874
+    },
+    {
+      "locale": "uk",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 361,
+      "ratio": 0.9783
+    },
+    {
+      "locale": "uk",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 187,
+      "ratio": 1.0809
+    },
+    {
+      "locale": "uk",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 389,
+      "ratio": 0.924
+    },
+    {
+      "locale": "uk",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 319,
+      "ratio": 0.9785
+    },
+    {
+      "locale": "uk",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 365,
+      "ratio": 0.9241
+    },
+    {
+      "locale": "uk",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 395,
+      "ratio": 0.9777
+    },
+    {
+      "locale": "uk",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 259,
+      "ratio": 0.9522
+    },
+    {
+      "locale": "uk",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 406,
+      "ratio": 0.9736
+    },
+    {
+      "locale": "uk",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 380,
+      "ratio": 0.8983
+    },
+    {
+      "locale": "uk",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 395,
+      "ratio": 0.9294
+    },
+    {
+      "locale": "uk",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 362,
+      "ratio": 0.9476
+    },
+    {
+      "locale": "ur",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 464,
+      "ratio": 1.2575
+    },
+    {
+      "locale": "ur",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 236,
+      "ratio": 1.3642
+    },
+    {
+      "locale": "ur",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 541,
+      "ratio": 1.285
+    },
+    {
+      "locale": "ur",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 423,
+      "ratio": 1.2975
+    },
+    {
+      "locale": "ur",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 539,
+      "ratio": 1.3646
+    },
+    {
+      "locale": "ur",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 529,
+      "ratio": 1.3094
+    },
+    {
+      "locale": "ur",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 360,
+      "ratio": 1.3235
+    },
+    {
+      "locale": "ur",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 548,
+      "ratio": 1.3141
+    },
+    {
+      "locale": "ur",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 546,
+      "ratio": 1.2908
+    },
+    {
+      "locale": "ur",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 533,
+      "ratio": 1.2541
+    },
+    {
+      "locale": "ur",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 495,
+      "ratio": 1.2958
+    },
+    {
+      "locale": "vi",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 578,
+      "ratio": 1.5664
+    },
+    {
+      "locale": "vi",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 310,
+      "ratio": 1.7919
+    },
+    {
+      "locale": "vi",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 676,
+      "ratio": 1.6057
+    },
+    {
+      "locale": "vi",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 548,
+      "ratio": 1.681
+    },
+    {
+      "locale": "vi",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 582,
+      "ratio": 1.4734
+    },
+    {
+      "locale": "vi",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 648,
+      "ratio": 1.604
+    },
+    {
+      "locale": "vi",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 472,
+      "ratio": 1.7353
+    },
+    {
+      "locale": "vi",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 633,
+      "ratio": 1.518
+    },
+    {
+      "locale": "vi",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 618,
+      "ratio": 1.461
+    },
+    {
+      "locale": "vi",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 661,
+      "ratio": 1.5553
+    },
+    {
+      "locale": "vi",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 607,
+      "ratio": 1.589
+    },
+    {
+      "locale": "zh",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 280,
+      "ratio": 0.7588
+    },
+    {
+      "locale": "zh",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 158,
+      "ratio": 0.9133
+    },
+    {
+      "locale": "zh",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 375,
+      "ratio": 0.8907
+    },
+    {
+      "locale": "zh",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 287,
+      "ratio": 0.8804
+    },
+    {
+      "locale": "zh",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 344,
+      "ratio": 0.8709
+    },
+    {
+      "locale": "zh",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 357,
+      "ratio": 0.8837
+    },
+    {
+      "locale": "zh",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 226,
+      "ratio": 0.8309
+    },
+    {
+      "locale": "zh",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 349,
+      "ratio": 0.8369
+    },
+    {
+      "locale": "zh",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 357,
+      "ratio": 0.844
+    },
+    {
+      "locale": "zh",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 359,
+      "ratio": 0.8447
+    },
+    {
+      "locale": "zh",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 330,
+      "ratio": 0.8639
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "availability.md",
+      "source_units": 369,
+      "translated_units": 276,
+      "ratio": 0.748
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "changelog.md",
+      "source_units": 173,
+      "translated_units": 155,
+      "ratio": 0.896
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "comparisons/standard-alarm.md",
+      "source_units": 421,
+      "translated_units": 363,
+      "ratio": 0.8622
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "facts.md",
+      "source_units": 326,
+      "translated_units": 292,
+      "ratio": 0.8957
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "features/missions.md",
+      "source_units": 395,
+      "translated_units": 334,
+      "ratio": 0.8456
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "features/privacy-and-reliability.md",
+      "source_units": 404,
+      "translated_units": 360,
+      "ratio": 0.8911
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "glossary.md",
+      "source_units": 272,
+      "translated_units": 233,
+      "ratio": 0.8566
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "guides/backup-and-sharing.md",
+      "source_units": 417,
+      "translated_units": 349,
+      "ratio": 0.8369
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "guides/set-up-an-alarm.md",
+      "source_units": 423,
+      "translated_units": 343,
+      "ratio": 0.8109
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "help/alarm-delivery.md",
+      "source_units": 425,
+      "translated_units": 365,
+      "ratio": 0.8588
+    },
+    {
+      "locale": "zh_Hant",
+      "page": "index.md",
+      "source_units": 382,
+      "translated_units": 327,
+      "ratio": 0.856
+    }
+  ]
+}
